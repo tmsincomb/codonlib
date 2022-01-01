@@ -1,0 +1,3 @@
+[console_scripts]
+codonlib = codonlib.cli:main
+
